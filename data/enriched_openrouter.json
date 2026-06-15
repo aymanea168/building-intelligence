@@ -1,0 +1,2303 @@
+[
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei10056.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Fine, irregular cracking is visible across the painted render/fascia band above the ground-floor storefront, below the balcony railing. No obvious spalling, displacement, or exposed reinforcement is visible.",
+    "severity": "low",
+    "causes": [
+      "Surface crazing from render shrinkage",
+      "Thermal movement in the facade finish",
+      "Aging or degradation of paint/coating",
+      "Minor substrate movement"
+    ],
+    "inspection_actions": [
+      "Measure and record crack widths and pattern",
+      "Check for damp staining, hollow render, or loose coating",
+      "Inspect adjacent balcony/railing fixings and supporting structure if accessible",
+      "Monitor cracks over time for widening or propagation"
+    ],
+    "recommendations": [
+      "Repair cracks with suitable flexible filler and repaint",
+      "Remove loose material before any coating repair",
+      "Investigate further if cracks are active, widening, or associated with deflection or spalling",
+      "Obtain structural assessment if cracking extends into structural members"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei6758.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Visible longitudinal cracking/splitting in timber elements, including the left column near metal straps and checking along the main horizontal beam.",
+    "severity": "medium",
+    "causes": [
+      "Timber shrinkage and seasonal moisture cycling",
+      "Weathering and UV exposure",
+      "Possible overstress or settlement at connections",
+      "Aging of timber members"
+    ],
+    "inspection_actions": [
+      "Measure crack width, length, and depth",
+      "Check for active movement or widening",
+      "Inspect timber for decay, insect damage, and moisture intrusion",
+      "Verify condition of metal straps and beam-column connections",
+      "Assess load path from roof through brackets and beams"
+    ],
+    "recommendations": [
+      "Have a qualified timber/structural engineer assess the affected members",
+      "Monitor cracks over time with dated photos or gauges",
+      "Repair or stabilize structural splitting using approved timber repair methods",
+      "Maintain protective coating and drainage to reduce moisture cycling",
+      "Replace or reinforce members if cracking compromises structural capacity"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei6862.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Vertical crack/split visible in the right timber support column below the roof beam. No obvious displacement, crushing, or connection failure is visible.",
+    "severity": "medium",
+    "causes": [
+      "Timber drying shrinkage",
+      "Moisture cycling and weathering",
+      "Age-related timber checking",
+      "Possible load-induced splitting"
+    ],
+    "inspection_actions": [
+      "Measure crack width, length, and depth",
+      "Check for crack progression over time",
+      "Inspect adjacent timber members, joints, and bearing points",
+      "Assess moisture content and signs of decay or insect attack"
+    ],
+    "recommendations": [
+      "Seal exposed split to reduce water ingress",
+      "Monitor crack for movement before repair",
+      "Have a timber structural specialist evaluate if the split is deep or load-related",
+      "Repair or reinforce only after structural assessment"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei3162.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Visible cracking/splitting at the base of a timber guardrail post near the metal connector and deck boards. Adjacent deck boards show weathering and surface deterioration.",
+    "severity": "medium",
+    "causes": [
+      "Timber shrinkage or checking due to weathering",
+      "Moisture ingress at the post base",
+      "Cyclic loading or impact to the guardrail",
+      "Fastener-induced splitting around the connector"
+    ],
+    "inspection_actions": [
+      "Measure crack width and length",
+      "Check post stability and guardrail deflection",
+      "Inspect metal connector and fasteners for looseness or corrosion",
+      "Probe timber at the base for softening or decay",
+      "Inspect adjacent posts and deck boards for similar cracking"
+    ],
+    "recommendations": [
+      "Repair or replace cracked post section if structural capacity is reduced",
+      "Replace or secure loose/corroded fasteners",
+      "Seal exposed timber end grain and cut edges",
+      "Reinspect after repair and include guardrail in routine maintenance checks"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei10527.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Fine irregular cracking and crazing across the white rendered/parapet surface, with localized coating delamination, flaking, and vertical staining indicating moisture exposure.",
+    "severity": "medium",
+    "causes": [
+      "Thermal movement and drying shrinkage of render/concrete",
+      "Aging or weathering of the coating",
+      "Moisture ingress through surface cracks",
+      "Poor adhesion or inadequate surface preparation of the finish layer"
+    ],
+    "inspection_actions": [
+      "Measure crack widths and map crack pattern",
+      "Probe loose or hollow-sounding coating areas",
+      "Check for active moisture ingress and staining source",
+      "Inspect for exposed reinforcement or substrate deterioration behind delaminated areas"
+    ],
+    "recommendations": [
+      "Remove loose coating and prepare sound substrate",
+      "Repair cracks with suitable exterior crack filler or repair mortar",
+      "Apply compatible waterproof/breathable protective coating",
+      "Monitor repaired areas for recurrent cracking or water staining"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei2078.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Narrow longitudinal crack/check visible along the stained wood beam below the roof edge. No obvious displacement, splitting, or connection distress is visible.",
+    "severity": "low",
+    "causes": [
+      "Wood drying shrinkage/checking",
+      "Weathering and thermal movement",
+      "Possible localized stress at beam connections"
+    ],
+    "inspection_actions": [
+      "Measure crack length and width",
+      "Inspect adjacent beam faces for additional cracking",
+      "Check beam-to-post connections for movement or distress",
+      "Assess coating condition and moisture intrusion"
+    ],
+    "recommendations": [
+      "Monitor for widening or propagation",
+      "Maintain protective coating to limit moisture ingress",
+      "Seal if crack is accepting water",
+      "Have a qualified contractor evaluate if cracking progresses or affects connections"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei10351.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Diagonal crack in rendered masonry wall extending from near the eaves toward the lower left, with additional horizontal cracking near the base and localized render loss exposing brick at the lower-left corner.",
+    "severity": "medium",
+    "causes": [
+      "Differential foundation movement or settlement",
+      "Thermal or moisture-related movement of the wall",
+      "Render shrinkage or poor surface preparation",
+      "Localized deterioration at the wall base"
+    ],
+    "inspection_actions": [
+      "Measure and record crack width, length, and pattern",
+      "Install crack monitors to check for ongoing movement",
+      "Inspect foundation, wall base, and adjacent ground for settlement or moisture",
+      "Check corresponding internal wall surfaces for matching cracks",
+      "Assess drainage, roof runoff, and possible water ingress near the wall"
+    ],
+    "recommendations": [
+      "Monitor crack movement before permanent repair",
+      "Repair exposed masonry and damaged render after stabilization",
+      "Improve drainage and moisture control at the wall base",
+      "Obtain structural assessment if cracking widens, offsets, or continues to develop"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei5666.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Longitudinal cracks/checking visible along the timber beam grain, with possible splitting near the upper left vertical post connection.",
+    "severity": "medium",
+    "causes": [
+      "Timber drying shrinkage and seasonal moisture cycling",
+      "Weathering and UV exposure",
+      "Possible stress concentration at the beam-to-post connection"
+    ],
+    "inspection_actions": [
+      "Measure crack width, length, and depth",
+      "Check for propagation, displacement, or member deformation",
+      "Inspect adjacent timber for decay, rot, or insect damage",
+      "Verify stability of the beam-to-post connection"
+    ],
+    "recommendations": [
+      "Monitor cracks for further opening",
+      "Seal or refinish timber to reduce moisture ingress",
+      "Repair with appropriate timber filler, epoxy, or reinforcement if cracks are deep or structural",
+      "Replace affected member if cracking compromises load-bearing capacity"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei12098.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Cracking and surface crazing visible on the concrete balcony/parapet beam, with localized spalling near the top edge and adjacent corrosion on the steel beam connection.",
+    "severity": "medium",
+    "causes": [
+      "Concrete shrinkage or thermal movement",
+      "Water ingress and weathering of the concrete surface",
+      "Possible corrosion of embedded reinforcement causing local spalling",
+      "Movement or stress concentration near the steel connection"
+    ],
+    "inspection_actions": [
+      "Map and measure crack widths and lengths",
+      "Probe cracked and spalled areas for delamination",
+      "Inspect for exposed or corroding reinforcement",
+      "Check for water staining, leakage paths, and drainage defects",
+      "Assess corrosion and section loss on the adjacent steel beam and connection"
+    ],
+    "recommendations": [
+      "Monitor cracks for movement or widening",
+      "Remove loose concrete and repair spalled areas with compatible mortar",
+      "Clean, treat, and recoat corroded steel components",
+      "Seal suitable cracks after assessment to reduce water ingress",
+      "Obtain structural assessment if cracks are active, widening, or associated with reinforcement corrosion"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei2505.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Visible longitudinal cracks/checks along the grain on several timber pergola beams, with localized surface coating damage.",
+    "severity": "low",
+    "causes": [
+      "Timber shrinkage from drying or seasonal moisture changes",
+      "Weathering and UV exposure degrading the protective coating",
+      "Normal timber checking"
+    ],
+    "inspection_actions": [
+      "Measure crack width, length, and depth",
+      "Inspect adjacent beams and joints for propagation, splintering, or loosening",
+      "Check moisture condition and coating condition",
+      "Monitor cracks for movement or widening"
+    ],
+    "recommendations": [
+      "Clean and seal cracks with compatible exterior wood filler or sealer",
+      "Recoat affected timber with suitable weather-resistant finish",
+      "Replace member if cracks widen, deepen, or affect structural connections"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei7894.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Fine irregular cracks visible in the rendered wall surface, concentrated near the utility box and vegetation. Horizontal panel joints are present; no obvious spalling, displacement, or wide opening is visible.",
+    "severity": "low",
+    "causes": [
+      "Surface shrinkage of render or coating",
+      "Thermal movement",
+      "Minor substrate movement",
+      "Age-related weathering",
+      "Moisture retention behind vegetation or fixtures"
+    ],
+    "inspection_actions": [
+      "Measure crack width and map extent",
+      "Install crack monitor if movement is suspected",
+      "Inspect adjacent panel joints and sealants",
+      "Check for moisture staining or water ingress",
+      "Sound the surface for delamination near cracked areas"
+    ],
+    "recommendations": [
+      "Remove vegetation and inspect concealed wall surface",
+      "Clean and seal fine cracks with compatible flexible sealant or coating",
+      "Repair damaged render with compatible material",
+      "Monitor cracks periodically for widening",
+      "Seek structural assessment if cracks widen, become active, or are accompanied by bulging"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei6003.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Visible vertical crack/split in the central timber post near the beam connection. No obvious displacement or collapse is visible in the image.",
+    "severity": "medium",
+    "causes": [
+      "Timber drying shrinkage/checking",
+      "Moisture cycling and weathering",
+      "Localized stress at the beam-post connection",
+      "Possible movement or settlement of the timber frame"
+    ],
+    "inspection_actions": [
+      "Measure crack width, length, and depth",
+      "Check whether the crack is active or widening",
+      "Inspect the beam-post connection and adjacent members for deformation",
+      "Check for decay, insect damage, and moisture ingress",
+      "Assess load path and consult a structural timber specialist if needed"
+    ],
+    "recommendations": [
+      "Monitor and record the crack over time",
+      "Protect exposed timber from water ingress",
+      "Repair or stabilize the member if cracking is progressive or affects connection capacity",
+      "Obtain structural assessment before loading or modifying the frame"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei5797.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Visible vertical cracking/checking on the timber column, with no obvious displacement, splitting through the member, or connection distress visible.",
+    "severity": "low",
+    "causes": [
+      "Timber drying shrinkage or natural checking",
+      "Moisture and temperature cycling",
+      "Potential existing timber grain weakness"
+    ],
+    "inspection_actions": [
+      "Measure crack width and length",
+      "Check whether cracking extends through the column or affects load-bearing capacity",
+      "Inspect column connections, base, and adjacent posts",
+      "Check for moisture ingress, rot, insect damage, or deformation"
+    ],
+    "recommendations": [
+      "Monitor crack for growth or widening",
+      "Seal or treat timber if moisture exposure is present",
+      "Repair or replace the column if cracking deepens, widens, or affects structural performance"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei1594.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Localized longitudinal crack/check visible in a wooden roof decking board, running along the grain. No obvious displacement, rot, or water staining is visible in the image.",
+    "severity": "low",
+    "causes": [
+      "Natural timber shrinkage/checking",
+      "Moisture cycling and drying of the board",
+      "Fastener restraint or installation stress",
+      "Localized weakness around grain or knot pattern"
+    ],
+    "inspection_actions": [
+      "Measure crack length, width, and depth",
+      "Inspect adjacent boards for similar cracking",
+      "Check fastener condition and board support",
+      "Inspect underside for deflection, splitting, or leaks",
+      "Verify roof covering/underlayment condition above the cracked board"
+    ],
+    "recommendations": [
+      "Monitor crack for widening or propagation",
+      "Seal exposed crack if roof decking is weather-exposed",
+      "Replace board if crack deepens, widens, or affects board integrity",
+      "Maintain drainage and ventilation to reduce moisture cycling"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei9745.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Fine horizontal crack in the rendered wall near the upper section, with localized staining below a pipe outlet.",
+    "severity": "low",
+    "causes": [
+      "Render shrinkage",
+      "Thermal movement",
+      "Minor settlement",
+      "Water ingress around pipe outlet"
+    ],
+    "inspection_actions": [
+      "Measure crack width and length",
+      "Monitor for further movement",
+      "Inspect pipe outlet and drainage for water leakage",
+      "Check adjacent wall areas for spalling or damp staining"
+    ],
+    "recommendations": [
+      "Seal crack after monitoring if stable",
+      "Repair render with compatible material",
+      "Address any water ingress source",
+      "Reinspect after weather events or repairs"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei6742.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Visible longitudinal crack/split in the left timber column near the beam connection, with possible separation at the joint area. No obvious member displacement is visible from the image.",
+    "severity": "medium",
+    "causes": [
+      "Timber shrinkage or drying check",
+      "Moisture cycling and weather exposure",
+      "Joint stress from roof loads or settlement",
+      "Aging or deterioration of timber"
+    ],
+    "inspection_actions": [
+      "Measure crack width, length, and depth where accessible",
+      "Check for active movement or widening over time",
+      "Inspect adjacent beam, column, and joinery for splitting, crushing, or loosening",
+      "Assess moisture content and signs of decay or insect activity",
+      "Verify member alignment and support condition"
+    ],
+    "recommendations": [
+      "Have a qualified timber/structural inspector evaluate the cracked column and connection",
+      "Monitor the crack with dated measurements or crack gauges",
+      "Repair or reinforce only after structural assessment",
+      "Address moisture exposure and maintain protective timber finishes"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei6774.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Visible longitudinal crack/split in the timber column near the left support, with metal bands present around the post.",
+    "severity": "medium",
+    "causes": [
+      "Timber drying shrinkage or checking",
+      "Weathering and age-related timber movement",
+      "Localized stress at the beam-column connection",
+      "Possible moisture-related deterioration"
+    ],
+    "inspection_actions": [
+      "Measure crack width, length, and depth",
+      "Check for crack propagation or active movement",
+      "Inspect beam-column joint and adjacent timber for splitting",
+      "Assess timber for decay, insect damage, and moisture content",
+      "Verify condition and effectiveness of existing metal bands"
+    ],
+    "recommendations": [
+      "Monitor the crack periodically and record changes",
+      "Have a qualified timber/heritage specialist assess structural impact",
+      "Repair or reinforce only if cracking is active or load-bearing capacity is affected",
+      "Improve moisture protection and maintain timber preservative treatment"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei10711.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Fine horizontal and irregular cracking in the exposed concrete/render band below the corrugated shutter and above the signage, with localized staining. No visible displacement or spalling.",
+    "severity": "medium",
+    "causes": [
+      "Thermal movement",
+      "Concrete or render shrinkage",
+      "Moisture ingress",
+      "Differential movement of the supporting beam or facade"
+    ],
+    "inspection_actions": [
+      "Measure crack widths and map crack pattern",
+      "Check for loose render, spalling, or hollow-sounding areas",
+      "Monitor for widening or new cracking",
+      "Inspect for water staining and drainage defects"
+    ],
+    "recommendations": [
+      "Seal cracks with appropriate flexible sealant after preparation",
+      "Repair damaged render or concrete surface",
+      "Improve weatherproofing and drainage at the affected zone",
+      "Obtain structural assessment if cracks are widening, deep, or associated with movement"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei12925.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Fine to moderate cracks are visible in painted concrete stair and wall surfaces, with associated staining, patching, and paint loss. No exposed reinforcement or major displacement is visible.",
+    "severity": "medium",
+    "causes": [
+      "Concrete shrinkage or thermal movement",
+      "Water ingress and weathering along stair drainage paths",
+      "Minor structural movement or settlement"
+    ],
+    "inspection_actions": [
+      "Map crack locations, lengths, widths, and orientation",
+      "Check for active water ingress, drainage defects, and dampness",
+      "Sound concrete for delamination, spalling, or exposed reinforcement",
+      "Monitor cracks over time if movement is suspected"
+    ],
+    "recommendations": [
+      "Have a structural engineer assess cracks on stair and wall elements",
+      "Repair drainage or waterproofing defects before cosmetic repair",
+      "Seal or inject cracks using an appropriate repair method",
+      "Patch damaged coating and protect repaired concrete"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei2480.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Visible surface cracking/checking in the timber pergola beam, with no apparent member displacement, joint failure, or collapse in the image.",
+    "severity": "low",
+    "causes": [
+      "Timber drying shrinkage/checking",
+      "Weathering from moisture and UV exposure",
+      "Possible stress concentration near connections"
+    ],
+    "inspection_actions": [
+      "Measure crack width, length, and depth",
+      "Inspect adjacent timber members and beam-to-post connections",
+      "Check for splintering, rot, fastener looseness, or movement",
+      "Document with dated photos for monitoring"
+    ],
+    "recommendations": [
+      "Monitor crack for progression during routine inspections",
+      "Apply appropriate timber sealant or protective coating if cracks retain moisture",
+      "Repair or replace affected timber if cracking widens, deepens, or compromises connections"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei2024.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Minor longitudinal cracking/checking is visible on stained timber beam and post surfaces. No visible displacement, major splitting, rot, or water intrusion is evident.",
+    "severity": "low",
+    "causes": [
+      "Wood drying shrinkage and natural checking",
+      "Weathering from moisture and temperature cycling",
+      "Possible minor load or connection movement"
+    ],
+    "inspection_actions": [
+      "Document crack length, width, and location",
+      "Check whether cracks are surface-only or extend deeply into members",
+      "Inspect beam-column connections for looseness or movement",
+      "Look for related deflection, splitting, rot, or fastener failure"
+    ],
+    "recommendations": [
+      "Monitor cracks for widening or propagation",
+      "Seal or finish exposed timber surfaces to reduce moisture cycling",
+      "Repair or reinforce if cracking increases or affects structural members",
+      "Consult a qualified inspector or structural professional if cracks are deep, active, or associated with movement"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei7937.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Visible stepped and diagonal cracking in brick masonry above the door opening and near the roof line, with displaced/loose bricks and deteriorated wall top course.",
+    "severity": "high",
+    "causes": [
+      "Differential foundation movement",
+      "Mortar degradation and moisture damage",
+      "Inadequate or failed lintel support above opening",
+      "Roof movement or spread due to deteriorated roof structure"
+    ],
+    "inspection_actions": [
+      "Measure crack widths and map crack pattern",
+      "Check lintel condition and bearing above door opening",
+      "Inspect roof structure, wall plate, and masonry support",
+      "Assess foundation movement and drainage conditions nearby"
+    ],
+    "recommendations": [
+      "Restrict access beneath affected masonry until assessed",
+      "Engage a structural engineer for stability evaluation",
+      "Temporarily shore or brace loose/displaced brickwork if needed",
+      "Repair cracks and masonry only after addressing structural cause"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei2469.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Visible vertical crack/split in the foreground timber pergola post. No obvious displacement, detachment, or collapse is visible.",
+    "severity": "medium",
+    "causes": [
+      "Timber shrinkage or weathering",
+      "Localized impact or overload",
+      "Stress concentration near post connections"
+    ],
+    "inspection_actions": [
+      "Measure crack width and length",
+      "Inspect adjacent timber members and connections",
+      "Check for rotation, splitting progression, or loose fixings",
+      "Monitor under use/loading conditions"
+    ],
+    "recommendations": [
+      "Repair or consolidate the cracked member if damage is superficial",
+      "Replace the post if cracking is deep, widening, or affects structural capacity",
+      "Limit climbing or leaning on the pergola until assessed"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei5346.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Vertical crack/checking visible on the timber post surface, with localized surface damage near the lower section.",
+    "severity": "low",
+    "causes": [
+      "Timber drying shrinkage or natural checking",
+      "Weather exposure and moisture cycling",
+      "Possible grain weakness or previous impact"
+    ],
+    "inspection_actions": [
+      "Measure crack length, width, and apparent depth",
+      "Check post for movement, splitting through the section, or loss of bearing",
+      "Inspect surrounding timber for rot, insect damage, or coating failure"
+    ],
+    "recommendations": [
+      "Monitor crack for propagation during follow-up inspections",
+      "Seal or fill the crack if minor to reduce moisture ingress",
+      "Repair or replace the post if cracking is deep, widening, or affecting structural stability"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei2068.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Visible linear cracking/checking in the stained timber members, including the lower horizontal beam and the right vertical post. No obvious member displacement, separation, rot, or fastener failure is visible.",
+    "severity": "medium",
+    "causes": [
+      "Wood shrinkage and drying checks",
+      "Weathering or UV degradation of the coating",
+      "Moisture cycling causing timber movement",
+      "Possible stress from load or fastener restraint"
+    ],
+    "inspection_actions": [
+      "Measure crack length, width, and depth",
+      "Probe surrounding wood for softness, rot, or insect damage",
+      "Inspect beam-to-post connections and fasteners for loosening",
+      "Check for splitting through the full member thickness",
+      "Monitor cracks for growth over time"
+    ],
+    "recommendations": [
+      "Seal or coat the timber after cleaning and drying",
+      "Fill minor surface checks with exterior-rated wood filler",
+      "Tighten or replace loose fasteners if found",
+      "Reinforce or replace members if cracks are deep, widening, or affecting structural capacity"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei2012.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Fine longitudinal cracks/checking are visible in the coated timber beam, with similar vertical surface cracking or coating damage on the right timber post. No visible displacement, splitting, or member distress is evident.",
+    "severity": "low",
+    "causes": [
+      "Natural timber shrinkage/checking",
+      "Weathering and moisture cycling",
+      "Coating film cracking due to age or UV exposure"
+    ],
+    "inspection_actions": [
+      "Measure crack width and length",
+      "Check for moisture ingress, decay, or loose coating",
+      "Inspect adjacent members for similar cracking",
+      "Monitor for widening or new cracks"
+    ],
+    "recommendations": [
+      "Clean and dry affected timber",
+      "Sand loose or cracked coating",
+      "Seal or fill cracks where moisture ingress is possible",
+      "Recoat with compatible exterior timber finish",
+      "Escalate if cracks widen, deepen, or affect structural integrity"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei6389.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Visible vertical crack/split along the timber post, running parallel to the grain. Crack depth and structural impact are not visible.",
+    "severity": "medium",
+    "causes": [
+      "Timber drying shrinkage/checking",
+      "Moisture cycling of the wood",
+      "Natural grain weakness or knot-related splitting",
+      "Possible load or connection stress"
+    ],
+    "inspection_actions": [
+      "Measure crack length, width, and depth",
+      "Inspect post connections and base for movement or looseness",
+      "Check for adjacent cracking, distortion, or leaning",
+      "Assess moisture content and signs of decay",
+      "Monitor for crack propagation"
+    ],
+    "recommendations": [
+      "Seal or treat exposed timber to reduce moisture ingress",
+      "Monitor and record crack dimensions over time",
+      "Have a structural inspector assess if the post is load-bearing",
+      "Repair, reinforce, or replace the post if cracking is deep or progressing"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei5773.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Narrow vertical crack/split visible in the dark timber column, running approximately along the grain. No obvious displacement, spalling, or member deformation is visible.",
+    "severity": "low",
+    "causes": [
+      "Timber drying shrinkage",
+      "Weathering or aging of wood",
+      "Localized stress from restraint or minor movement"
+    ],
+    "inspection_actions": [
+      "Measure crack width and length; mark and monitor for change",
+      "Inspect adjacent timber for decay, insect damage, moisture staining, or loss of section",
+      "Check column alignment, connections, and supported members for movement"
+    ],
+    "recommendations": [
+      "Seal or repair split if moisture ingress or further splitting is evident",
+      "Maintain protective coating and drainage/ventilation around timber",
+      "Obtain structural assessment if crack widens, deepens, or is associated with deflection or connection distress"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei10539.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Horizontal and irregular cracking in the rendered wall near the top edge, with localized coating delamination, spalling, and small exposed substrate areas. Some staining is visible below the cracked zone.",
+    "severity": "medium",
+    "causes": [
+      "Render shrinkage or age-related deterioration",
+      "Thermal movement of the wall surface",
+      "Moisture ingress behind the coating",
+      "Minor substrate movement or settlement"
+    ],
+    "inspection_actions": [
+      "Measure and record crack widths and lengths",
+      "Map cracking and spalled areas",
+      "Probe render for hollow or delaminated zones",
+      "Check for moisture ingress and drainage issues",
+      "Monitor cracks for further movement"
+    ],
+    "recommendations": [
+      "Remove loose or delaminated render and repair with compatible material",
+      "Seal cracks after stabilizing the substrate",
+      "Address any moisture source before recoating",
+      "Apply suitable exterior primer and protective finish",
+      "Arrange structural assessment if cracking progresses or widens"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei12523.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Painted concrete wall/parapet shows multiple areas of coating delamination and flaking with exposed grey substrate. Fine surface cracking is visible in the deteriorated coating; no exposed reinforcement or major displacement is evident.",
+    "severity": "medium",
+    "causes": [
+      "Moisture ingress behind the coating",
+      "Poor coating adhesion or inadequate surface preparation",
+      "Thermal movement or substrate shrinkage cracking",
+      "Weathering and aging of surface finishes"
+    ],
+    "inspection_actions": [
+      "Map and measure crack widths and delaminated areas",
+      "Sound the surface to identify loose concrete or hollow coating",
+      "Check for dampness, staining, or active water ingress",
+      "Inspect for exposed reinforcement or corrosion",
+      "Monitor for crack movement or widening"
+    ],
+    "recommendations": [
+      "Remove loose and delaminated coating to a sound edge",
+      "Repair cracks with appropriate filler or injection if active leakage is present",
+      "Patch damaged substrate with compatible repair mortar",
+      "Apply suitable primer and breathable exterior coating",
+      "Address moisture sources and improve drainage or waterproofing"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei5649.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Vertical open crack/split visible in the lower section of a dark timber pergola post; no collapse or major displacement is evident.",
+    "severity": "medium",
+    "causes": [
+      "Timber drying shrinkage/checking",
+      "Moisture cycling and weathering",
+      "Possible load-induced splitting",
+      "Age-related deterioration"
+    ],
+    "inspection_actions": [
+      "Measure crack length, width, and apparent depth",
+      "Inspect post base and beam connections for movement or looseness",
+      "Check adjacent timber members for similar cracking",
+      "Assess timber for decay, moisture ingress, or insect damage",
+      "Monitor crack for progression"
+    ],
+    "recommendations": [
+      "Stabilize or repair cracked member if structural capacity is reduced",
+      "Replace post if cracking is deep, active, or compromises support",
+      "Tighten or repair affected connections as needed",
+      "Apply protective timber treatment and improve drainage at post base"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei7843.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Fine hairline cracks are visible across the rendered or tiled wall surface, including around patched areas. No obvious displacement, spalling, or wide opening is evident.",
+    "severity": "low",
+    "causes": [
+      "Thermal or shrinkage movement of render/coating",
+      "Minor substrate movement",
+      "Differential movement around previous patch repairs",
+      "Age-related surface deterioration"
+    ],
+    "inspection_actions": [
+      "Measure and record crack width and length",
+      "Map crack pattern and compare with patched areas",
+      "Check for moisture ingress or staining near cracks",
+      "Tap-test surrounding surface for delamination",
+      "Monitor for widening or new cracking"
+    ],
+    "recommendations": [
+      "Clean loose material and seal cracks with compatible flexible sealant if water ingress is possible",
+      "Repair affected coating/render using compatible materials",
+      "Remove vegetation and secure cables away from wall surface",
+      "Reinspect periodically and escalate if cracks widen or displacement occurs"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei9732.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Fine hairline cracks visible in the external rendered wall, including a near-horizontal crack above the window and a diagonal crack below. Local vertical staining below a small pipe/penetration indicates possible water tracking.",
+    "severity": "low",
+    "causes": [
+      "Thermal or drying shrinkage of render",
+      "Minor substrate movement",
+      "Water ingress or leakage from the pipe/penetration area"
+    ],
+    "inspection_actions": [
+      "Measure and record crack width and length",
+      "Monitor for further opening or branching",
+      "Inspect pipe/penetration seal and adjacent drainage",
+      "Check internal wall for dampness or staining",
+      "Tap-test render for hollow or delaminated areas"
+    ],
+    "recommendations": [
+      "Address any active water source before repair",
+      "Clean and seal cracks with suitable exterior filler after drying",
+      "Repair and repaint affected render areas",
+      "Reinspect after weather exposure to confirm stability"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei1750.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Vertical longitudinal crack/checking visible in a timber railing post near the deck edge; no obvious displacement, connection failure, or decay is visible.",
+    "severity": "medium",
+    "causes": [
+      "Timber drying shrinkage or natural checking",
+      "Moisture cycling and weathering",
+      "Stress concentration along grain or existing timber defect"
+    ],
+    "inspection_actions": [
+      "Measure crack length, width, and apparent depth",
+      "Probe surrounding timber for softness, decay, or moisture ingress",
+      "Check post plumbness, base condition, and connection stability",
+      "Inspect adjacent posts and rail members for similar cracking"
+    ],
+    "recommendations": [
+      "Monitor crack progression and document dimensions",
+      "Seal crack if open to reduce water ingress, where appropriate",
+      "Repair or reinforce if cracking is deep, widening, or affecting connection capacity",
+      "Replace the post if structural integrity, stability, or decay is confirmed"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei2353.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Vertical longitudinal crack/checking visible in timber column below beam; minor coating loss at beam end. Member appears in place with no obvious displacement.",
+    "severity": "medium",
+    "causes": [
+      "Timber shrinkage/checking from drying cycles",
+      "Moisture cycling near water exposure",
+      "Coating deterioration allowing moisture ingress",
+      "Possible load-related stress splitting"
+    ],
+    "inspection_actions": [
+      "Measure crack width, depth, and length",
+      "Inspect for member movement, splitting progression, and connection distress",
+      "Check moisture content and signs of decay or insect damage",
+      "Probe affected areas for loss of section",
+      "Monitor crack with dated photos or crack gauges"
+    ],
+    "recommendations": [
+      "Have a qualified timber/structural inspector assess load-bearing capacity",
+      "Seal cracks and restore protective coating to reduce moisture ingress",
+      "Repair or reinforce if crack depth or member weakening is significant",
+      "Replace member if extensive decay, major splitting, or structural instability is confirmed"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei6631.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Visible longitudinal checking/cracking in the timber column, running along the grain on the exposed face. No obvious displacement, crushing, or connection failure is visible.",
+    "severity": "medium",
+    "causes": [
+      "Timber drying shrinkage and seasoning check",
+      "Moisture cycling causing grain separation",
+      "Age-related timber movement",
+      "Possible load-induced stress, not confirmed"
+    ],
+    "inspection_actions": [
+      "Measure crack width, length, and depth",
+      "Inspect column connections and beam bearing areas",
+      "Check for rotation, leaning, crushing, or settlement",
+      "Assess timber moisture content and signs of decay or insect attack",
+      "Compare condition with adjacent columns and beams"
+    ],
+    "recommendations": [
+      "Monitor crack for widening or progression",
+      "Seal exposed timber surfaces to reduce moisture ingress",
+      "Repair or epoxy-fill only after structural assessment",
+      "Consult a timber structural specialist if cracking is deep, widening, or affects connections"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei3429.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Visible hairline vertical crack in the white wall finish extending downward from the upper wall. Additional horizontal cracking and localized coating loss/spalling are present at the base, with rough exposed substrate near ground level.",
+    "severity": "medium",
+    "causes": [
+      "Thermal movement or shrinkage of wall finish",
+      "Minor settlement or differential movement at the wall base",
+      "Moisture ingress or capillary action at the lower wall zone",
+      "Deterioration of render/plaster due to age or inadequate protection"
+    ],
+    "inspection_actions": [
+      "Measure crack width and length; record with dated photographs",
+      "Check for moisture, dampness, or efflorescence at the base",
+      "Tap-test affected render to identify hollow or detached areas",
+      "Inspect adjacent ground level, drainage, and wall-to-floor junction for water exposure"
+    ],
+    "recommendations": [
+      "Remove loose or hollow render and repair with compatible material",
+      "Address moisture source and improve drainage or splash protection at wall base",
+      "Rake out and seal active cracks with flexible sealant or repair mortar as appropriate",
+      "Monitor cracks periodically for widening, displacement, or new cracking"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei6750.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Visible longitudinal crack/checking in the left timber column below the beam connection, following the wood grain. No obvious member displacement or collapse is visible.",
+    "severity": "medium",
+    "causes": [
+      "Timber drying shrinkage or seasoning checks",
+      "Moisture cycling and weathering",
+      "Long-term loading or connection stress",
+      "Possible settlement or movement in the frame"
+    ],
+    "inspection_actions": [
+      "Measure crack width, length, and depth where accessible",
+      "Check for active movement, widening, or displacement",
+      "Inspect adjacent beams, joints, and column base for distress",
+      "Assess moisture content, decay, and insect damage"
+    ],
+    "recommendations": [
+      "Monitor the crack over time and record changes",
+      "Have a qualified timber structural inspector evaluate load capacity",
+      "Repair or reinforce if cracking is active, deep, or affecting connections",
+      "Improve drainage, ventilation, and protective coating to reduce moisture cycling"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei12064.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Multiple cracks visible in the concrete balcony/beam face, including hairline map cracking and localized spalling near the right edge. No exposed reinforcement is visible.",
+    "severity": "medium",
+    "causes": [
+      "Thermal or drying shrinkage",
+      "Weathering and surface carbonation",
+      "Water ingress through joints or surface cracks",
+      "Minor structural movement or load effects near the railing/base"
+    ],
+    "inspection_actions": [
+      "Measure and record crack widths and lengths",
+      "Map crack pattern and compare with adjacent areas",
+      "Check spalled area for reinforcement exposure or delamination",
+      "Inspect railing fixings and supporting slab for movement",
+      "Monitor cracks for further opening over time"
+    ],
+    "recommendations": [
+      "Clean and seal non-structural cracks to reduce water ingress",
+      "Repair spalled concrete with compatible repair mortar",
+      "Improve waterproofing/drainage at balcony edge if leakage is evident",
+      "Obtain structural assessment if cracks widen, show movement, or affect railing stability"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei10288.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Horizontal crack across the white fluted exterior column/mullion adjacent to the tiled wall. Surface staining is visible above the crack.",
+    "severity": "medium",
+    "causes": [
+      "Differential movement between wall finishes or substrate",
+      "Thermal expansion and contraction",
+      "Material aging or shrinkage",
+      "Localized impact damage"
+    ],
+    "inspection_actions": [
+      "Measure crack width and length",
+      "Check for loose or hollow render on the column",
+      "Inspect adjacent tiles and wall finish for displacement",
+      "Monitor crack for further movement",
+      "Assess overhead falling-object risk in pedestrian area"
+    ],
+    "recommendations": [
+      "Rake out and repair crack with suitable exterior repair material",
+      "Stabilize any loose render or finish before cosmetic repair",
+      "Seal repaired crack against water ingress",
+      "Reinspect after weather events or settlement movement"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei2246.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Visible surface crack/split in the brown timber beam beneath the roof edge, likely localized around a knot; no obvious deformation or displacement observed.",
+    "severity": "low",
+    "causes": [
+      "Timber drying/shrinkage",
+      "Natural knot-related splitting",
+      "Weathering or thermal movement"
+    ],
+    "inspection_actions": [
+      "Measure crack width and length",
+      "Check for progression over time",
+      "Inspect adjacent beam areas for similar cracking",
+      "Verify beam remains stable and properly supported"
+    ],
+    "recommendations": [
+      "Monitor the crack periodically",
+      "Seal or fill if water ingress is observed",
+      "Repair or replace beam section if cracking widens or affects structural performance"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei2451.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Vertical crack/checking visible on the timber pergola column near the base, with localized coating loss. No visible displacement or adjacent member distress.",
+    "severity": "low",
+    "causes": [
+      "Timber drying shrinkage or natural checking",
+      "Weathering from moisture and UV exposure",
+      "Coating degradation exposing timber surface",
+      "Possible minor installation or handling stress"
+    ],
+    "inspection_actions": [
+      "Measure crack width, length, and depth",
+      "Probe timber for softness, rot, or moisture ingress",
+      "Check column plumbness and connection stability",
+      "Inspect adjacent timber members for similar cracking"
+    ],
+    "recommendations": [
+      "Monitor crack for propagation and document with photos",
+      "Clean and recoat affected timber with compatible exterior finish",
+      "Seal or repair shallow checking with appropriate exterior wood repair material",
+      "Replace or reinforce member if cracking is deep, widening, or associated with rot or instability"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei6575.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Visible longitudinal crack/checking in the timber column below the beam, with no obvious displacement or separation observed in the image.",
+    "severity": "medium",
+    "causes": [
+      "Timber drying shrinkage or seasoning check",
+      "Moisture cycling and weathering",
+      "Aging of timber member",
+      "Possible load-induced splitting"
+    ],
+    "inspection_actions": [
+      "Measure crack length, width, and depth",
+      "Check for active movement or widening",
+      "Inspect adjacent beam-column connection for distress",
+      "Assess moisture content and signs of decay",
+      "Monitor with dated photographs or crack gauge"
+    ],
+    "recommendations": [
+      "Seal exposed crack to reduce moisture ingress if structurally sound",
+      "Have a structural timber specialist assess if crack is deep, widening, or near connections",
+      "Repair or reinforce member if load capacity or connection integrity is affected",
+      "Maintain protective coating and drainage around timber elements"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei12823.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Linear cracks/open joints are visible along the underside edges of exposed concrete balcony/walkway slabs, with some discoloration on adjacent concrete surfaces.",
+    "severity": "medium",
+    "causes": [
+      "Concrete shrinkage or thermal movement",
+      "Differential movement between slab and supporting structure",
+      "Possible water ingress at slab edges or joints",
+      "Potential corrosion of embedded reinforcement, if cracks are active or widening"
+    ],
+    "inspection_actions": [
+      "Measure and record crack width, length, and location",
+      "Monitor for movement or widening over time",
+      "Check for spalling, delamination, staining, or exposed reinforcement",
+      "Inspect slab joints, drainage paths, and waterproofing condition",
+      "Refer to a structural engineer if cracks are wide, active, or associated with deflection"
+    ],
+    "recommendations": [
+      "Seal cracks after confirming they are stable",
+      "Repair damaged concrete and protective coating",
+      "Address any water ingress or drainage defects",
+      "Establish periodic monitoring and maintenance checks"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei3567.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Fine vertical hairline cracks in the rendered exterior wall below/near window openings. No visible displacement, spalling, or water staining.",
+    "severity": "low",
+    "causes": [
+      "Plaster shrinkage",
+      "Thermal movement",
+      "Stress concentration around window openings",
+      "Minor settlement or substrate movement"
+    ],
+    "inspection_actions": [
+      "Measure and record crack width and length",
+      "Install crack monitors to check for movement",
+      "Inspect interior wall surface in corresponding locations",
+      "Check for water ingress, dampness, or plaster delamination"
+    ],
+    "recommendations": [
+      "Monitor cracks over time",
+      "Seal hairline cracks to prevent water entry",
+      "Repair and repaint affected render if cracks remain stable",
+      "Seek structural assessment if cracks widen, offset, or become diagonal"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei12524.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Horizontal concrete/parapet surface shows localized surface cracking and extensive paint or coating delamination, exposing the underlying substrate. No visible wide structural crack or displacement is evident.",
+    "severity": "medium",
+    "causes": [
+      "Moisture ingress behind the coating",
+      "Poor coating adhesion or inadequate surface preparation",
+      "Thermal movement or shrinkage cracking in render/coating",
+      "Weathering and UV degradation"
+    ],
+    "inspection_actions": [
+      "Measure and record crack widths and lengths",
+      "Map areas of coating delamination",
+      "Sound the surface to identify hollow or detached areas",
+      "Check for moisture sources, leaks, or drainage issues",
+      "Inspect adjacent structural elements for related cracking"
+    ],
+    "recommendations": [
+      "Remove loose and delaminated coating to sound substrate",
+      "Repair cracks using compatible filler or injection method as required",
+      "Prime and recoat with a compatible weather-resistant coating system",
+      "Address any identified moisture ingress or drainage defects",
+      "Monitor cracks for further movement or widening"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei2032.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Hairline cracks/checks are visible in the stained timber beams and posts, primarily along the grain. No obvious splitting, displacement, rot, or connection failure is visible.",
+    "severity": "low",
+    "causes": [
+      "Normal wood shrinkage and grain checking",
+      "Weathering from moisture and temperature cycles",
+      "UV exposure causing coating degradation"
+    ],
+    "inspection_actions": [
+      "Measure crack width and length",
+      "Check for active propagation or new cracking",
+      "Inspect beam-to-post connections and fasteners",
+      "Probe wood for softness, rot, or moisture damage",
+      "Check for deflection or movement in the beam"
+    ],
+    "recommendations": [
+      "Monitor cracks periodically for widening or lengthening",
+      "Clean and reseal stained timber to reduce moisture ingress",
+      "Repair or replace members if cracks become deep, structural, or associated with movement",
+      "Obtain structural evaluation if cracking progresses or affects connections"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei9632.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Fine to moderate cracking visible on the underside of the balcony/beam soffit, with irregular branching cracks and surface staining. No obvious spalling, exposed reinforcement, or displacement visible.",
+    "severity": "medium",
+    "causes": [
+      "Concrete shrinkage",
+      "Thermal movement",
+      "Possible water ingress or coating deterioration",
+      "Possible minor structural movement"
+    ],
+    "inspection_actions": [
+      "Measure and map crack widths and lengths",
+      "Inspect for active movement over time",
+      "Check for moisture staining, leakage, or delamination",
+      "Inspect adjacent balcony slab, railing fixings, and drainage details",
+      "Assess for spalling or exposed reinforcement at crack locations"
+    ],
+    "recommendations": [
+      "Monitor cracks and record progression",
+      "Clean and seal non-structural cracks to reduce water ingress",
+      "Repair damaged surface coating or render",
+      "Address any identified water source or drainage defect",
+      "Engage a structural engineer if cracks are widening, deep, or accompanied by deflection or spalling"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei12802.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Visible crack on the underside/edge of the upper concrete roof or canopy slab at the right side of the building elevation.",
+    "severity": "medium",
+    "causes": [
+      "Concrete shrinkage or thermal movement",
+      "Structural loading or deflection of the slab/beam",
+      "Weathering and deterioration of exposed concrete"
+    ],
+    "inspection_actions": [
+      "Measure crack width, length, and orientation",
+      "Check for active movement using crack gauges",
+      "Inspect soffit for spalling, delamination, leakage, or exposed reinforcement",
+      "Assess adjacent beams, columns, and slab supports for distress"
+    ],
+    "recommendations": [
+      "Engage a structural engineer for assessment",
+      "Repair non-structural cracking with appropriate sealant or grout",
+      "Address any water ingress and protect exposed concrete",
+      "Monitor crack progression during follow-up inspections"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei10123.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Fine to moderate horizontal cracking visible in the white rendered facade, with localized cracking around the CCTV mounting point. No obvious displacement, spalling, or open structural cracking is visible.",
+    "severity": "low",
+    "causes": [
+      "Thermal or shrinkage movement in render",
+      "Minor substrate movement",
+      "Stress concentration around CCTV fixing",
+      "Poor render adhesion or aging coating"
+    ],
+    "inspection_actions": [
+      "Measure and record crack width and length",
+      "Check for hollow or delaminated render by sounding",
+      "Inspect corresponding interior wall areas",
+      "Monitor cracks for movement over time"
+    ],
+    "recommendations": [
+      "Clean and seal fine cracks to prevent water ingress",
+      "Repair damaged render around CCTV fixing",
+      "Reassess if cracks widen, offset, or extend",
+      "Address any moisture source before cosmetic repair"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei6744.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Visible longitudinal crack or split in the timber column at the left support, near the beam connection. Metal bands are present on the column, indicating possible prior stabilization.",
+    "severity": "medium",
+    "causes": [
+      "Timber drying shrinkage",
+      "Weathering and moisture cycling",
+      "Joint movement or loading stress",
+      "Aging of timber members"
+    ],
+    "inspection_actions": [
+      "Measure crack length, width, and depth",
+      "Check for active movement or widening",
+      "Inspect column-to-beam connection for looseness or displacement",
+      "Assess timber decay, splitting, and metal band corrosion",
+      "Monitor crack over time"
+    ],
+    "recommendations": [
+      "Have a structural engineer assess the affected member",
+      "Repair or stabilize the split if structural capacity is reduced",
+      "Tighten or replace damaged metal straps if needed",
+      "Apply appropriate timber protection and moisture control",
+      "Replace timber only if cracking or decay compromises load-bearing capacity"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei10143.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Rendered exterior wall shows multiple fine to moderate map and vertical cracks, including a more prominent near-vertical crack. Localized staining/discoloration is visible near the base and along some cracks. No visible spalling, exposed reinforcement, or major displacement.",
+    "severity": "medium",
+    "causes": [
+      "Render shrinkage or thermal movement",
+      "Moisture-related movement or water ingress",
+      "Minor substrate movement behind the render",
+      "Poor drainage or damp conditions at the wall base"
+    ],
+    "inspection_actions": [
+      "Measure and record crack widths and lengths",
+      "Map crack pattern and compare with panel/joint lines",
+      "Check for moisture, efflorescence, soft render, or spalling",
+      "Inspect base drainage and condition near the pipe",
+      "Monitor cracks for widening or new movement"
+    ],
+    "recommendations": [
+      "Repair non-structural cracks with compatible flexible sealant or render repair system",
+      "Address moisture sources and improve base drainage if dampness is confirmed",
+      "Recoat affected render after cracks are stabilized",
+      "Seek structural assessment if cracks widen, show displacement, or moisture damage progresses"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei6793.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Longitudinal crack/check visible on the horizontal timber beam below the tiled roof. No visible displacement, separation, or major timber damage in the image.",
+    "severity": "low",
+    "causes": [
+      "Timber drying shrinkage/checking",
+      "Weathering and cyclic moisture exposure",
+      "Age-related timber movement"
+    ],
+    "inspection_actions": [
+      "Measure crack length and width",
+      "Check adjacent timber for softness, decay, or splintering",
+      "Inspect beam for deflection, bearing movement, or loose connections",
+      "Monitor for crack propagation"
+    ],
+    "recommendations": [
+      "Seal or finish exposed timber to reduce moisture cycling",
+      "Monitor the crack periodically and record changes",
+      "Repair or reinforce if cracking widens, deepens, or is associated with decay or deflection",
+      "Have a qualified timber/heritage specialist assess if the beam is primary structural support"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei9642.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Fine, irregular surface cracks are visible across the light-colored concrete fascia/soffit below the balcony railing. No obvious spalling, exposed reinforcement, displacement, or wide structural cracking is visible.",
+    "severity": "low",
+    "causes": [
+      "Surface drying shrinkage",
+      "Thermal movement",
+      "Aging or weathering of render/coating",
+      "Possible moisture-related deterioration"
+    ],
+    "inspection_actions": [
+      "Measure and record crack widths and lengths",
+      "Mark cracks and monitor for movement or widening",
+      "Inspect for water staining, efflorescence, or moisture ingress",
+      "Check for hollow sounding render, delamination, or spalling",
+      "Assess whether the cracked element is structural"
+    ],
+    "recommendations": [
+      "Clean loose material and seal minor cracks with suitable exterior crack filler",
+      "Repair affected render/coating and apply weather-resistant finish",
+      "Address any water ingress or drainage issues at the balcony/railing interface",
+      "Reinspect periodically to confirm cracks remain stable"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei1614.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Visible longitudinal cracks/checking in multiple timber roof decking boards, with some splits extending along the board grain. No obvious rot, major displacement, or missing boards observed.",
+    "severity": "medium",
+    "causes": [
+      "Timber drying shrinkage or natural checking",
+      "Weathering or moisture cycling before roof covering installation",
+      "Possible board overloading, deflection, or restraint at fasteners"
+    ],
+    "inspection_actions": [
+      "Measure crack width and length and record affected board locations",
+      "Check for loose, cracked, or split boards near roof edges and ridges",
+      "Inspect underside for deflection, fastener failure, or structural movement",
+      "Check for moisture ingress, rot, or reduced bearing at supports"
+    ],
+    "recommendations": [
+      "Replace boards with wide, deep, or structurally significant cracks before roofing installation",
+      "Repair or reinforce only if approved by the structural engineer",
+      "Verify decking span, grade, thickness, and fastening meet design requirements",
+      "Re-inspect after repair and before roof covering is installed"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei9967.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Fine, irregular hairline cracking across the rendered facade between horizontal control joints. No visible spalling, displacement, or active leakage. Minor surface staining and small patch areas are present.",
+    "severity": "low",
+    "causes": [
+      "Drying shrinkage of render or coating",
+      "Thermal movement of the substrate",
+      "Minor substrate movement",
+      "Age-related coating degradation"
+    ],
+    "inspection_actions": [
+      "Measure crack widths and record locations",
+      "Check for delamination by light tapping",
+      "Inspect corresponding interior surfaces for staining or cracking",
+      "Monitor cracks for widening or new propagation"
+    ],
+    "recommendations": [
+      "Clean and seal hairline cracks",
+      "Apply compatible flexible exterior coating or repaint",
+      "Repair any loose or hollow render areas",
+      "Investigate further if cracks widen, leak, or show displacement"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei2098.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Localized longitudinal crack/check visible at the end of the lower horizontal timber beam on the left side of the pavilion; adjacent coating appears weathered.",
+    "severity": "low",
+    "causes": [
+      "Wood drying shrinkage or seasonal movement",
+      "End-grain moisture absorption",
+      "Weathering of protective coating"
+    ],
+    "inspection_actions": [
+      "Measure and document crack length, width, and location",
+      "Probe adjacent timber for softness or decay",
+      "Check nearby joints and beams for similar cracking or displacement",
+      "Monitor for widening or propagation"
+    ],
+    "recommendations": [
+      "Seal exposed end grain and maintain protective coating",
+      "Keep moisture away from beam ends",
+      "Repair or reinforce member if crack widens or structural distress is found",
+      "Reinspect during routine maintenance"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei9616.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Fine, irregular cracking visible in the rendered fascia/soffit below the balcony. Cracks appear mostly hairline with no obvious displacement, spalling, or exposed reinforcement.",
+    "severity": "low",
+    "causes": [
+      "Render drying shrinkage",
+      "Thermal movement of the facade",
+      "Minor substrate movement",
+      "Aging and weathering of surface coating"
+    ],
+    "inspection_actions": [
+      "Measure and record crack widths and pattern",
+      "Check for hollow render or delamination by sounding",
+      "Inspect for moisture staining or water ingress",
+      "Monitor cracks for widening or new propagation"
+    ],
+    "recommendations": [
+      "Repair localized surface cracks with suitable filler and recoat",
+      "Remove loose or hollow render before repair",
+      "Use flexible exterior-grade coating where movement is expected",
+      "Escalate to structural assessment if cracks widen, become diagonal, or show displacement"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei6373.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Vertical crack/split visible along the timber post surface, appearing as a lengthwise separation in the wood grain.",
+    "severity": "medium",
+    "causes": [
+      "Timber drying shrinkage or checking",
+      "Weathering and moisture cycling",
+      "Natural grain separation",
+      "Possible impact or localized stress"
+    ],
+    "inspection_actions": [
+      "Measure crack width, length, and depth",
+      "Check whether the crack is active or widening",
+      "Inspect post stability, connections, and adjacent structural members",
+      "Check for rot, decay, insect damage, or moisture intrusion"
+    ],
+    "recommendations": [
+      "Monitor the crack periodically and document any progression",
+      "Seal or repair the split to reduce moisture ingress if the member is nonstructural",
+      "Replace, sister, or reinforce the post if structural capacity or stability is affected",
+      "Protect the timber with appropriate coating or preservative treatment"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei6773.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Visible vertical crack/split in the left timber column below the roof beam, with apparent restraining bands around the column. No visible major displacement, beam deflection, or roof tile failure in the shown area.",
+    "severity": "medium",
+    "causes": [
+      "Timber shrinkage or drying check",
+      "Moisture cycling and weathering",
+      "Load or connection stress in the column",
+      "Age-related timber degradation"
+    ],
+    "inspection_actions": [
+      "Measure crack width, length, and depth",
+      "Inspect column top bearing area and beam connection",
+      "Check for active movement or widening",
+      "Assess timber moisture, decay, and insect damage",
+      "Verify effectiveness of existing restraining bands"
+    ],
+    "recommendations": [
+      "Have a structural timber specialist assess load capacity",
+      "Stabilize or repair the cracked column if active or structurally significant",
+      "Maintain protective coating and improve moisture control",
+      "Monitor crack periodically with dated measurements or markers"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei1787.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Visible longitudinal crack/splitting in the timber cap of the foreground railing post, with weathered surface finish.",
+    "severity": "low",
+    "causes": [
+      "Timber shrinkage from moisture cycling",
+      "UV and weather exposure degrading the finish",
+      "Possible end-grain water ingress"
+    ],
+    "inspection_actions": [
+      "Check crack depth and whether it extends into the main post",
+      "Probe for soft or decayed timber",
+      "Verify railing post stability and fastener condition"
+    ],
+    "recommendations": [
+      "Clean and seal the crack to limit water ingress",
+      "Sand and refinish exposed timber",
+      "Replace the post cap if splitting worsens or becomes loose"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei6741.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Visible vertical crack/split in the timber column area near the beam connection, with metal straps present around the column.",
+    "severity": "medium",
+    "causes": [
+      "Timber shrinkage or drying split",
+      "Weathering and moisture cycling",
+      "Load transfer stress at the beam-column connection",
+      "Possible movement or settlement of the timber frame"
+    ],
+    "inspection_actions": [
+      "Measure crack width, length, and depth where accessible",
+      "Check whether the crack is active or stable",
+      "Inspect the beam-column joint for loosening, deformation, or crushing",
+      "Assess timber condition for decay, insect damage, and moisture content",
+      "Verify the condition and adequacy of the existing metal straps"
+    ],
+    "recommendations": [
+      "Monitor the crack over time with dated measurements or crack gauges",
+      "Have a qualified timber-structure specialist assess load-bearing capacity",
+      "Repair or reinforce the member if cracking is progressive or structurally significant",
+      "Treat and protect timber from moisture ingress and biological deterioration"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei12530.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Visible vertical cracks in the concrete parapet/beam near the roofline, with associated staining and surface weathering below the cracked areas.",
+    "severity": "medium",
+    "causes": [
+      "Thermal movement or shrinkage cracking",
+      "Water ingress through roof/parapet joints",
+      "Differential movement between structural elements",
+      "Aging or degradation of concrete/finish"
+    ],
+    "inspection_actions": [
+      "Measure crack width, length, and pattern",
+      "Map all visible cracks and staining",
+      "Check for moisture penetration and leaks below the parapet",
+      "Sound the concrete surface for delamination or hollow areas",
+      "Inspect for spalling, exposed reinforcement, or displacement",
+      "Monitor cracks over time for widening or movement"
+    ],
+    "recommendations": [
+      "Have a qualified structural engineer assess the parapet/beam condition",
+      "Repair cracks using appropriate sealant or structural repair method after assessment",
+      "Address waterproofing defects at the roof/parapet junction",
+      "Replace deteriorated concrete and protect exposed reinforcement if found",
+      "Improve drainage and prevent ponding near the parapet"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei10457.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Fine irregular cracks are visible in the wall finish, with branching cracks below the upper horizontal joint. Dark vertical staining and biological growth indicate water tracking over cracked areas.",
+    "severity": "medium",
+    "causes": [
+      "Water ingress through the upper joint or crack network",
+      "Thermal movement or shrinkage cracking in the render or wall finish",
+      "Aged coating or substrate deterioration"
+    ],
+    "inspection_actions": [
+      "Map and measure crack widths",
+      "Check for active leakage after rain",
+      "Inspect the upper horizontal joint and sealant condition",
+      "Probe or tap stained areas to check for render delamination"
+    ],
+    "recommendations": [
+      "Repair cracks after drying using suitable flexible filler or sealant",
+      "Renew failed sealant at the upper horizontal joint",
+      "Clean biological staining and treat the surface before recoating",
+      "Monitor cracks for movement and investigate further if widening occurs"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei6635.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Vertical crack/split visible in the timber support post beneath the beam, running along the grain. Minor surface checking may also be present in adjacent timber members.",
+    "severity": "medium",
+    "causes": [
+      "Timber drying shrinkage or seasoning check",
+      "Moisture cycling causing wood movement",
+      "Aging or weathering of timber",
+      "Possible load or connection-induced stress"
+    ],
+    "inspection_actions": [
+      "Measure crack length, width, and depth",
+      "Check for displacement, rotation, or settlement at the post",
+      "Inspect connections and bearing points for distress",
+      "Assess moisture content and signs of decay or insect damage",
+      "Monitor crack for progression"
+    ],
+    "recommendations": [
+      "Have a timber structural specialist assess load-bearing capacity",
+      "Repair or reinforce if crack affects structural integrity",
+      "Seal exposed timber end grain and protect from moisture ingress",
+      "Schedule periodic monitoring and maintenance"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei5473.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Fine cracking is visible in the low concrete curb/bench edge and adjacent stone paving under the timber pergola. No obvious major cracking or distress is visible in the timber posts or masonry columns.",
+    "severity": "low",
+    "causes": [
+      "Thermal movement",
+      "Concrete shrinkage",
+      "Minor settlement of bedding or subgrade",
+      "Weathering and age-related material degradation"
+    ],
+    "inspection_actions": [
+      "Measure crack width and length",
+      "Record location with photographs",
+      "Check for loose pavers or spalling concrete",
+      "Inspect nearby drainage and vegetation/root intrusion"
+    ],
+    "recommendations": [
+      "Monitor cracks for widening or displacement",
+      "Repair loose or damaged paving/curb sections",
+      "Seal minor non-structural cracks to reduce water ingress",
+      "Address drainage or root-related issues if present"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei11480.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Visible fine to moderate cracking across the plaster/render surface of a decorative facade element, with paint/finish deterioration and dark staining below the ornament suggesting moisture tracking.",
+    "severity": "medium",
+    "causes": [
+      "Moisture ingress through the parapet, coping, or decorative feature",
+      "Thermal movement of the render or substrate",
+      "Age-related coating failure",
+      "Possible minor substrate movement"
+    ],
+    "inspection_actions": [
+      "Measure and map crack widths and lengths",
+      "Check for hollow or delaminated render around cracks",
+      "Inspect parapet/coping, flashings, and drainage for water entry",
+      "Assess moisture levels in affected plaster areas",
+      "Monitor cracks for movement over time"
+    ],
+    "recommendations": [
+      "Repair cracks after identifying and eliminating moisture source",
+      "Remove loose or delaminated render and reinstate with compatible material",
+      "Improve waterproofing at parapet/coping and decorative junctions",
+      "Apply suitable breathable protective coating after repairs",
+      "Reinspect after rain events to confirm leakage has stopped"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei9655.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Visible cracking on the exposed concrete parapet/beam below the steel stair structure, with surface staining/discoloration nearby. No obvious spalling or exposed reinforcement is visible.",
+    "severity": "medium",
+    "causes": [
+      "Thermal movement of exposed concrete",
+      "Concrete shrinkage",
+      "Water ingress through surface cracks or joints",
+      "Localized stress near attached steel stair supports"
+    ],
+    "inspection_actions": [
+      "Measure and map crack width, length, and direction",
+      "Check whether cracking is active or widening",
+      "Inspect for water staining, leakage paths, and spalling",
+      "Inspect adjacent steel supports and fixings for corrosion or movement"
+    ],
+    "recommendations": [
+      "Monitor cracks over time with dated measurements or crack gauges",
+      "Seal suitable non-structural cracks with compatible elastomeric sealant",
+      "Repair damaged concrete cover and protect exposed reinforcement if found",
+      "Improve drainage/weatherproofing at the parapet and stair connection",
+      "Obtain structural assessment if cracks are widening, deep, or associated with deflection"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei2486.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Visible longitudinal crack/splitting in a stained timber beam of the pergola, with nearby surface coating wear. No visible member displacement or collapse.",
+    "severity": "medium",
+    "causes": [
+      "Timber shrinkage or seasonal movement",
+      "Weathering from moisture and UV exposure",
+      "Coating degradation reducing timber protection",
+      "Possible stress concentration near beam joint"
+    ],
+    "inspection_actions": [
+      "Measure crack length, width, and depth",
+      "Check for propagation, splintering, or through-cracking",
+      "Inspect adjacent beams, joints, and fasteners",
+      "Verify member stability, deflection, and connection integrity"
+    ],
+    "recommendations": [
+      "Repair or stabilize the crack with compatible timber repair system",
+      "Sand/remove splinters and recoat with protective finish",
+      "Replace the beam if cracking is deep, structural, or affects connections",
+      "Schedule periodic monitoring due to public playground use"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei6935.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Visible longitudinal crack/splitting in the dark-stained timber beam near the left support connection, with possible localized separation at the beam end.",
+    "severity": "medium",
+    "causes": [
+      "Moisture cycling and wood shrinkage",
+      "Aging or weathering of timber",
+      "Localized stress at the support/connection point",
+      "Additional load or restraint from overgrown vines"
+    ],
+    "inspection_actions": [
+      "Measure crack length, width, and depth",
+      "Inspect beam end and support connection for movement or fastener failure",
+      "Probe surrounding timber for rot or softness",
+      "Check for deflection, twisting, or additional splits",
+      "Monitor crack progression over time"
+    ],
+    "recommendations": [
+      "Remove vines and vegetation from the beam to reduce load and moisture retention",
+      "Repair or reinforce the cracked area if splitting is deep or active",
+      "Replace the beam section if structural integrity is compromised",
+      "Seal exposed timber ends to limit moisture ingress",
+      "Schedule follow-up inspection after stabilization"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei10039.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Fine hairline cracks are visible in the rendered/painted horizontal fascia below the balcony railing. Cracks appear distributed and mostly superficial, with no visible spalling, displacement, or exposed reinforcement.",
+    "severity": "low",
+    "causes": [
+      "Paint or render shrinkage",
+      "Thermal movement",
+      "Minor substrate movement",
+      "Weathering or aging of finish"
+    ],
+    "inspection_actions": [
+      "Measure and record crack widths and locations",
+      "Check for loose render, hollow areas, or flaking paint",
+      "Monitor for widening or new cracking",
+      "Inspect above balcony and drainage details for water ingress"
+    ],
+    "recommendations": [
+      "Repair cracks by raking out, filling, and repainting affected areas",
+      "Use flexible exterior filler suitable for rendered surfaces",
+      "Reinspect periodically or after severe weather",
+      "Escalate to structural assessment if cracks widen or extend"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei6826.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Fine longitudinal crack/checking visible in the timber beam below the tiled eave; no obvious member displacement, sagging, or loose connections are visible.",
+    "severity": "low",
+    "causes": [
+      "timber drying shrinkage",
+      "weathering and moisture cycling",
+      "age-related checking",
+      "localized stress at grain or knot"
+    ],
+    "inspection_actions": [
+      "Measure and photograph crack length, width, and location",
+      "Inspect adjacent beam faces, joints, and roof supports for propagation or movement",
+      "Check for water staining, rot, or insect activity",
+      "Mark and monitor for changes"
+    ],
+    "recommendations": [
+      "Monitor periodically for widening or new cracks",
+      "Seal or consolidate if moisture ingress is possible",
+      "Repair or reinforce if crack widens, affects connections, or is associated with deflection",
+      "Have a timber/structural specialist assess if active or structurally significant"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei3727.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Vertical hairline-to-narrow crack in the white rendered exterior wall, running from near the top to the base near the doorway. No visible offset, spalling, or major displacement.",
+    "severity": "medium",
+    "causes": [
+      "Thermal or drying shrinkage of render/plaster",
+      "Minor settlement or foundation movement",
+      "Stress concentration near the doorway/opening"
+    ],
+    "inspection_actions": [
+      "Measure crack width and length",
+      "Mark crack ends and monitor for movement",
+      "Inspect foundation, floor slab, and adjacent wall for related cracking",
+      "Check for displacement, moisture ingress, or loose render"
+    ],
+    "recommendations": [
+      "Repair after stability is confirmed",
+      "Rake out and fill with suitable flexible crack repair material",
+      "Seal exterior surface to prevent water ingress",
+      "Engage a structural engineer if crack widens, offsets, or new cracks appear"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei10664.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Fine horizontal crack in the rendered/painted wall below the window line, with minor surface pitting nearby. No visible displacement, spalling, or water staining.",
+    "severity": "low",
+    "causes": [
+      "Thermal or moisture movement in the render",
+      "Minor substrate movement around the window opening",
+      "Aging or shrinkage of surface coating"
+    ],
+    "inspection_actions": [
+      "Measure crack width and record length",
+      "Inspect crack for widening or displacement",
+      "Check render for hollow/delaminated areas",
+      "Inspect window perimeter and internal wall for related cracking or damp"
+    ],
+    "recommendations": [
+      "Monitor crack over time before repair",
+      "Rake out and seal/fill with compatible flexible exterior filler",
+      "Repaint affected area after repair",
+      "Investigate further if crack widens or new cracking develops"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei9989.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Fine, irregular hairline cracks across the rendered/painted exterior wall surface. No visible spalling, displacement, or major structural cracking observed.",
+    "severity": "low",
+    "causes": [
+      "Surface shrinkage of render or coating",
+      "Thermal movement",
+      "Aging or weathering of exterior finish",
+      "Minor substrate movement"
+    ],
+    "inspection_actions": [
+      "Map crack extent across the facade",
+      "Monitor for widening or new cracking",
+      "Check for moisture staining or leaks nearby",
+      "Tap surface to check for hollow or delaminated render"
+    ],
+    "recommendations": [
+      "Clean and seal cracks with suitable exterior filler",
+      "Repaint or recoat affected area",
+      "Repair any delaminated render if found",
+      "Investigate further if cracks widen, become stepped, or show moisture ingress"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei8030.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Visible cracking and localized spalling along the concrete roof/parapet edge, with vegetation and debris retained at the damaged area. Surface staining indicates moisture exposure.",
+    "severity": "medium",
+    "causes": [
+      "Water ingress through roof edge or parapet detailing",
+      "Vegetation/root growth widening cracks",
+      "Freeze-thaw or weathering deterioration",
+      "Thermal movement or minor settlement"
+    ],
+    "inspection_actions": [
+      "Measure and map crack widths and lengths",
+      "Probe spalled concrete for delamination and reinforcement exposure",
+      "Inspect roof drainage and waterproofing condition",
+      "Monitor cracks for progression"
+    ],
+    "recommendations": [
+      "Remove vegetation and debris from the roof edge",
+      "Repair spalled concrete with compatible repair mortar",
+      "Seal cracks and restore waterproofing/drainage details",
+      "Reinspect after repair and during wet weather"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei6880.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Visible vertical crack/split in the timber column below the roof beam; no obvious displacement or collapse is visible.",
+    "severity": "medium",
+    "causes": [
+      "Timber drying shrinkage or checking",
+      "Moisture cycling and weathering",
+      "Localized structural stress or settlement"
+    ],
+    "inspection_actions": [
+      "Measure crack width and length",
+      "Inspect adjacent beam, joint, and column for deformation or decay",
+      "Monitor for crack widening or movement",
+      "Check moisture content and signs of rot or insect damage"
+    ],
+    "recommendations": [
+      "Schedule follow-up inspection if crack is stable and shallow",
+      "Engage a timber structure specialist if cracking is deep, widening, or affects load transfer",
+      "Repair with compatible timber repair methods after cause assessment",
+      "Maintain drainage and moisture protection around timber members"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei5783.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Narrow crack or split visible in a dark timber member of the pavilion, with no obvious displacement, sagging, or separation at the joint.",
+    "severity": "low",
+    "causes": [
+      "Timber drying or shrinkage",
+      "Moisture and temperature cycling",
+      "Age-related timber movement",
+      "Localized stress near the member or joint"
+    ],
+    "inspection_actions": [
+      "Measure crack width and length",
+      "Inspect adjacent joints and timber members for splitting or loosening",
+      "Check for moisture ingress, decay, or insect activity",
+      "Monitor for crack widening or new cracking"
+    ],
+    "recommendations": [
+      "Clean and seal the crack to reduce moisture penetration",
+      "Maintain protective timber finish",
+      "Repair or reinforce if crack widens or affects structural stability",
+      "Schedule periodic follow-up inspection"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei11336.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Localized plaster/coating failure with irregular cracks, peeling, exposed substrate, and dark staining consistent with moisture-affected areas.",
+    "severity": "medium",
+    "causes": [
+      "Moisture ingress through the wall or substrate",
+      "Poor adhesion or aging of the plaster/coating",
+      "Minor substrate movement or shrinkage",
+      "Possible salt contamination or mould growth"
+    ],
+    "inspection_actions": [
+      "Measure and record crack width, length, and pattern",
+      "Map the extent of delamination and staining",
+      "Perform moisture readings on affected and adjacent areas",
+      "Tap-test plaster to identify hollow or loose sections",
+      "Investigate possible water source from exterior, plumbing, or rising damp"
+    ],
+    "recommendations": [
+      "Remove loose and delaminated plaster/coating",
+      "Identify and rectify the moisture source before repair",
+      "Clean or treat mould-affected areas",
+      "Allow substrate to dry, then re-plaster with compatible materials",
+      "Monitor cracks after repair to confirm stability"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei10165.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Multiple fine to moderate cracks in the rendered facade, including vertical and map cracking. Dark staining is visible along the horizontal joint and near the base, suggesting moisture tracking or surface water exposure. No visible displacement or structural opening is evident.",
+    "severity": "low",
+    "causes": [
+      "Render shrinkage or thermal movement",
+      "Minor substrate movement",
+      "Water ingress through joints or surface cracks",
+      "Aging or deterioration of the render coating"
+    ],
+    "inspection_actions": [
+      "Measure crack widths and record crack pattern",
+      "Check for loose or hollow render",
+      "Inspect for moisture ingress internally",
+      "Assess drainage and downpipe discharge near the wall",
+      "Monitor cracks for further movement"
+    ],
+    "recommendations": [
+      "Clean and seal fine cracks with compatible flexible sealant",
+      "Repair damaged render and recoat affected areas",
+      "Maintain horizontal joints and waterproofing details",
+      "Address any drainage or moisture source before cosmetic repair",
+      "Escalate to structural assessment if cracks widen or displacement appears"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei13177.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Fine to moderate cracking in the rendered external wall and balcony/parapet face, with localized paint/coating delamination and exposed substrate. Some staining/discoloration is visible, suggesting possible moisture exposure.",
+    "severity": "medium",
+    "causes": [
+      "Thermal movement of the render or concrete substrate",
+      "Moisture ingress behind the coating",
+      "Aging or poor adhesion of the paint/render finish",
+      "Minor substrate movement"
+    ],
+    "inspection_actions": [
+      "Measure and record crack widths and lengths",
+      "Map all affected cracking and coating loss",
+      "Check for hollow or delaminated render",
+      "Assess moisture levels and possible water entry points",
+      "Inspect adjacent windows, joints, and balcony drainage details"
+    ],
+    "recommendations": [
+      "Remove loose and delaminated coating/render",
+      "Repair cracks with suitable exterior flexible filler or crack-bridging system",
+      "Re-render damaged areas and apply compatible breathable exterior paint",
+      "Address any identified moisture ingress source",
+      "Monitor cracks periodically for widening or new movement"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei12863.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Vertical crack visible along the right edge of the rendered masonry wall, extending downward from below the coping. Minor surface staining and coating deterioration are also present.",
+    "severity": "medium",
+    "causes": [
+      "Thermal or shrinkage movement in render",
+      "Minor structural movement or settlement",
+      "Moisture ingress and freeze-thaw action behind the coating"
+    ],
+    "inspection_actions": [
+      "Measure crack width and length",
+      "Check for displacement, step cracking, or opening movement",
+      "Inspect coping, joints, and drainage for water ingress",
+      "Monitor crack over time with dated measurements"
+    ],
+    "recommendations": [
+      "Address moisture sources before cosmetic repair",
+      "Rake out and repair crack with compatible flexible filler or mortar",
+      "Recoat affected area after repair",
+      "Reinspect after settlement or seasonal movement"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei3501.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Multiple fine to moderate cracks in the external rendered wall, including long near-horizontal cracks and localized branching. No visible displacement, spalling, or moisture staining is evident.",
+    "severity": "medium",
+    "causes": [
+      "Thermal or shrinkage movement in the render",
+      "Substrate movement or settlement",
+      "Poor render mix or inadequate curing",
+      "Moisture-related expansion and contraction"
+    ],
+    "inspection_actions": [
+      "Measure crack widths and monitor for progression",
+      "Check for associated internal cracks or wall movement",
+      "Probe for hollow or delaminated render",
+      "Inspect roof edge, joints, and drainage for water ingress risk"
+    ],
+    "recommendations": [
+      "Repair cracks after confirming they are stable",
+      "Rake out and fill with suitable flexible exterior filler or elastomeric sealant",
+      "Recoat with compatible breathable exterior finish",
+      "Investigate structural cause if cracks widen, offset, or recur"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei9889.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Visible irregular crack in concrete or rendered wall surface, running horizontally then vertically downward. No obvious spalling, displacement, or exposed reinforcement observed.",
+    "severity": "medium",
+    "causes": [
+      "Thermal movement or shrinkage cracking",
+      "Subsidence or settlement movement",
+      "Moisture-related deterioration behind the surface",
+      "Surface render cracking over structural movement"
+    ],
+    "inspection_actions": [
+      "Measure crack width and length",
+      "Check for crack propagation with crack monitors",
+      "Inspect adjacent wall areas for displacement, dampness, or spalling",
+      "Determine whether cracking is superficial render or extends into substrate"
+    ],
+    "recommendations": [
+      "Schedule follow-up inspection to monitor movement",
+      "Repair after stability is confirmed",
+      "Address moisture or vegetation contact near the crack",
+      "Engage a structural engineer if cracking widens or displacement is found"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei10469.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Multiple fine to moderate cracks in a rendered/painted wall surface, including horizontal and vertical cracking. Dark vertical staining below the upper horizontal joint suggests water tracking and possible biological growth.",
+    "severity": "medium",
+    "causes": [
+      "Moisture ingress at or above the horizontal joint",
+      "Thermal movement or shrinkage of render/coating",
+      "Substrate movement or settlement",
+      "Deteriorated sealant or failed joint detailing"
+    ],
+    "inspection_actions": [
+      "Measure and map crack widths and lengths",
+      "Monitor cracks for movement with crack gauges",
+      "Check moisture content around stained and cracked areas",
+      "Inspect upper joint, sealant, drainage, and adjacent penetrations for water entry",
+      "Probe coating/render for delamination or hollow areas"
+    ],
+    "recommendations": [
+      "Identify and eliminate moisture source before cosmetic repair",
+      "Rake out and repair active cracks with appropriate flexible filler or resin injection as required",
+      "Replace deteriorated sealant at horizontal joint",
+      "Clean biological staining and apply suitable biocidal treatment",
+      "Recoat with breathable, weather-resistant coating system"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei2517.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Visible linear cracks/checking in timber pergola beams, appearing as surface splits along the wood grain with no obvious member displacement in the image.",
+    "severity": "low",
+    "causes": [
+      "Timber drying shrinkage",
+      "Moisture cycling",
+      "Weathering and UV exposure",
+      "Natural grain-related splitting"
+    ],
+    "inspection_actions": [
+      "Measure crack length, width, and depth",
+      "Check whether cracks are active or widening",
+      "Inspect beam-to-post connections for splitting, looseness, or fastener movement",
+      "Assess timber moisture content and coating condition"
+    ],
+    "recommendations": [
+      "Monitor cracks during follow-up inspections",
+      "Seal or fill checks where moisture ingress is likely",
+      "Maintain or renew protective timber coating",
+      "Replace affected member if cracking is deep, propagating, or affecting structural connections"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei2257.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Visible longitudinal checking/splitting in stained timber members, including vertical post(s) and horizontal beam areas; no obvious displacement or separation visible.",
+    "severity": "low",
+    "causes": [
+      "Seasonal timber drying and shrinkage",
+      "Moisture cycling and weather exposure",
+      "Natural grain-related checking in timber members"
+    ],
+    "inspection_actions": [
+      "Measure and record crack length, width, and location",
+      "Check for active movement, rot, insect damage, or loose connections",
+      "Inspect beam/post connections and bearing points for splitting"
+    ],
+    "recommendations": [
+      "Monitor cracks periodically for widening or propagation",
+      "Seal affected areas with compatible timber coating to reduce moisture ingress",
+      "Seek structural timber assessment if cracks widen, deepen, or affect connections"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei9666.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Visible hairline to fine cracks in the rendered concrete fascia/beam beneath the roof canopy, near the stair support and signage area. Minor staining/discoloration is present on the same surface.",
+    "severity": "medium",
+    "causes": [
+      "Thermal expansion and contraction of concrete/render",
+      "Drying shrinkage of render or surface coating",
+      "Moisture cycling and weathering",
+      "Stress concentration near structural supports or sign fixings"
+    ],
+    "inspection_actions": [
+      "Measure and map crack widths, lengths, and orientation",
+      "Check for active movement using crack gauges",
+      "Sound the surface for delamination or hollow render",
+      "Inspect for water ingress, staining, and drainage issues",
+      "Check adjacent steel supports, fixings, and canopy connections"
+    ],
+    "recommendations": [
+      "Monitor cracks over time for widening or propagation",
+      "Seal cracks and repair render with compatible flexible materials",
+      "Improve waterproofing and drainage at the canopy/fascia junction",
+      "Repair any loose or delaminated render",
+      "Obtain structural assessment if cracks widen, leak, or are associated with deflection"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei7914.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Fine vertical and diagonal hairline cracks visible in the wall panel surface, with nearby vegetation and cables partly obscuring the lower-left area. No obvious spalling, displacement, or open gaps visible.",
+    "severity": "low",
+    "causes": [
+      "Thermal movement or shrinkage of the panel surface",
+      "Minor substrate movement",
+      "Surface stress concentration near joints or penetrations",
+      "Vegetation/cable attachment contributing localized stress"
+    ],
+    "inspection_actions": [
+      "Measure and record crack width, length, and orientation",
+      "Map crack pattern relative to panel joints and cables",
+      "Check for loose or hollow-sounding panels",
+      "Inspect for moisture staining or water ingress",
+      "Clear vegetation to expose affected area for closer inspection"
+    ],
+    "recommendations": [
+      "Monitor cracks for progression over time",
+      "Remove vegetation and secure cables away from the wall surface",
+      "Seal cracks if water ingress is observed",
+      "Seek structural or facade specialist assessment if cracks widen, displace, or multiple panels are affected"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei6043.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Vertical crack/split visible along the weathered steel column face, running most of the visible height.",
+    "severity": "medium",
+    "causes": [
+      "Thermal movement or restrained expansion/contraction",
+      "Weld, seam, or fabrication discontinuity",
+      "Corrosion-related section weakening",
+      "Moisture ingress along the column surface"
+    ],
+    "inspection_actions": [
+      "Measure crack length, width, and alignment",
+      "Inspect for displacement, sharp edges, corrosion, or section loss",
+      "Check nearby welds, joints, and column connections",
+      "Install crack monitor if movement is suspected",
+      "Assess whether the crack is surface cracking or full-depth splitting"
+    ],
+    "recommendations": [
+      "Have a structural engineer evaluate load path and remaining capacity",
+      "Use NDT if crack extent is unclear",
+      "Repair, reinforce, or replace the column if structural integrity is affected",
+      "Protect or detail the crack to limit water ingress if repair is appropriate",
+      "Monitor periodically for progression"
+    ]
+  },
+  {
+    "image_path": "data/raw/mbdd2025\\images\\Hefei13230.jpg",
+    "dataset": "MBDD2025",
+    "defect": "crack",
+    "description": "Localized cracking and delamination of wall render with exposed rough substrate. Horizontal concrete band below shows cracking, spalling, staining, and possible moisture ingress.",
+    "severity": "medium",
+    "causes": [
+      "Water ingress through failed render or joints",
+      "Poor adhesion between render layers",
+      "Thermal or movement cracking",
+      "Weathering and age-related deterioration",
+      "Possible corrosion of embedded metal causing staining and spalling"
+    ],
+    "inspection_actions": [
+      "Map extent of cracking, delamination, and exposed substrate",
+      "Tap-test render to identify hollow or loose areas",
+      "Measure crack widths and check for ongoing movement",
+      "Inspect moisture source, drainage, and adjacent joints",
+      "Assess concrete band for spalling, corrosion staining, and loose fragments"
+    ],
+    "recommendations": [
+      "Remove loose render and unstable material",
+      "Repair exposed substrate with compatible mortar or render system",
+      "Address water ingress and reseal affected joints",
+      "Repair spalled concrete and treat corrosion if confirmed",
+      "Apply protective coating or finish after substrate repair"
+    ]
+  }
+]
