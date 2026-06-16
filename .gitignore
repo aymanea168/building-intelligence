@@ -199,7 +199,7 @@ cython_debug/
 #   that can be found at https://github.com/github/gitignore/blob/main/Global/VisualStudioCode.gitignore
 #   and can be added to the global gitignore or merged into this file. However, if you prefer, 
 #   you could uncomment the following to ignore the entire vscode folder
-# .vscode/
+.vscode/
 # Temporary file for partial code execution
 tempCodeRunnerFile.py
 
@@ -216,3 +216,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+data/raw/
+building-frontend/
+db/test/chroma.sqlite3
+db/test/a90f1023-1b68-43a3-b82e-960ee9f00444/data_level0.bin
+db/test/a90f1023-1b68-43a3-b82e-960ee9f00444/header.bin
+db/test/a90f1023-1b68-43a3-b82e-960ee9f00444/length.bin
+db/test/a90f1023-1b68-43a3-b82e-960ee9f00444/link_lists.bin
+db/test1/chroma.sqlite3
+db/test1/39c84442-4629-4fe4-9c85-c736bd31d2a0/data_level0.bin
+db/test1/39c84442-4629-4fe4-9c85-c736bd31d2a0/header.bin
+db/test1/39c84442-4629-4fe4-9c85-c736bd31d2a0/length.bin
+db/test1/39c84442-4629-4fe4-9c85-c736bd31d2a0/link_lists.bin
+data/enriched_openrouter1.json
